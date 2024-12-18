@@ -1,10 +1,10 @@
 title: Lard News [Archive]
-email: lard@lardishguides.eu.org
+email: lard@lardnews.eu.org
 description: >- # this means to ignore newlines until "baseurl:"
   Former website of Lard News, the Lardish Government news agency. It has been
   archived due to the dissolution of the Lardish Republic effective on December 31, 2024.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.lardnews.eu.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://old.news.lardcorporation.uk.eu.org" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  colyespapa
 
 # Build settings
