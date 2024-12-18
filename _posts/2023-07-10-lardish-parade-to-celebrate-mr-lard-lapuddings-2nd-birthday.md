@@ -4,7 +4,6 @@ title: 'Lardish Parade to celebrate Mr Lard Lapudding’s 2nd birthday'
 date: '2023-07-10T05:28:22-06:00'
 author: admin
 layout: post
-guid: 'https://www.lardnews.eu.org/?p=21'
 permalink: /2023/07/10/lardish-parade-to-celebrate-mr-lard-lapuddings-2nd-birthday/
 image: /wp-content/uploads/2023/07/Flag-of-the-Lardish-Republic.png
 categories:

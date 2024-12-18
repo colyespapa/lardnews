@@ -4,7 +4,6 @@ title: '[BREAKING NEWS] Proposal to amend the Constition passed in the House of 
 date: '2024-11-15T16:04:07-06:00'
 author: admin
 layout: post
-guid: 'https://www.lardnews.eu.org/?p=120'
 permalink: /2024/11/15/breaking-news-proposal-to-amend-the-constition-passed-in-the-house-of-deputies/
 categories:
     - 'Breaking News'
@@ -26,4 +25,4 @@ The bill required at least 120 votes for approval. With a total of 122 votes in 
 
 You can find the letter submitted by the President indicating the results here.
 
-[Result of the proposal to amend the Constitution in the House of Deputies](https://www.lardnews.eu.org/wp-content/uploads/2024/11/Result-of-the-proposal-to-amend-the-Constitution-in-the-House-of-Deputies.pdf)
+[Result of the proposal to amend the Constitution in the House of Deputies](/wp-content/uploads/2024/11/Result-of-the-proposal-to-amend-the-Constitution-in-the-House-of-Deputies.pdf)

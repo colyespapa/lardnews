@@ -4,7 +4,6 @@ title: 'Introduction of the New Lardish Flag'
 date: '2023-07-10T05:20:34-06:00'
 author: admin
 layout: post
-guid: 'https://www.lardnews.eu.org/?p=16'
 permalink: /2023/07/10/introduction-of-the-new-lardish-flag/
 image: /wp-content/uploads/2023/07/Flag-of-the-Lardish-Republic.png
 categories:
@@ -23,4 +22,6 @@ Then, on May 3, 2022, Mr Lard Lapudding 2nd was informed about this decision and
 
 Still, to this day, Mr Lard Lapudding 3rd hasn’t given his opinion to the Lardish Government.
 
- <figure class="wp-block-image size-full">![](https://www.lardnews.eu.org/wp-content/uploads/2023/07/Flag-of-the-Lardish-Republic.png)</figure>Recently introduced flag by Mr. Lard Lapudding’s 3rd cabinet.
+ ![My image Name](/wp-content/uploads/2023/07/Flag-of-the-Lardish-Republic.png)
+ 
+ Recently introduced flag by Mr. Lard Lapudding’s 3rd cabinet.

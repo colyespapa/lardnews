@@ -4,7 +4,6 @@ title: 'Projected results from the Central Lardish Committee'
 date: '2024-11-29T15:02:46-06:00'
 author: admin
 layout: post
-guid: 'https://www.lardnews.eu.org/?p=129'
 permalink: /2024/11/29/projected-results-from-the-central-lardish-committee/
 image: /wp-content/uploads/2024/11/Projection-Outcome-CLC-Nov2924.png
 categories:
@@ -63,4 +62,4 @@ The proposal is expected to secure ***50 votes***, surpassing the mandated major
 
 This approval demonstrates alignment across the legislative hierarchy and emphasizes the Lardish Republic’s commitment to reflecting its evolving identity and compromise to move away from its “dark past”. Despite some conservative resistance, the process highlighted bipartisan collaboration.
 
-[![](https://www.lardnews.eu.org/wp-content/uploads/2024/11/Projection-Outcome-CLC-Nov2924-300x191.png)](https://www.lardnews.eu.org/wp-content/uploads/2024/11/Projection-Outcome-CLC-Nov2924.png)
+![](/wp-content/uploads/2024/11/Projection-Outcome-CLC-Nov2924-300x191.png)

@@ -4,7 +4,6 @@ title: '[BREAKING NEWS] New Prime Minister Appointed'
 date: '2024-09-21T00:34:02-06:00'
 author: admin
 layout: post
-guid: 'https://www.lardnews.eu.org/?p=101'
 permalink: /2024/09/21/breaking-news-new-prime-minister-appointed/
 afift-disable:
     - 'yes'

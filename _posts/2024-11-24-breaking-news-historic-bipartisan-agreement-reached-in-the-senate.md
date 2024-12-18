@@ -4,7 +4,6 @@ title: '[BREAKING NEWS] Historic Bipartisan Agreement reached in the Senate'
 date: '2024-11-24T14:49:03-06:00'
 author: admin
 layout: post
-guid: 'https://www.lardnews.eu.org/?p=123'
 permalink: /2024/11/24/breaking-news-historic-bipartisan-agreement-reached-in-the-senate/
 categories:
     - 'Breaking News'

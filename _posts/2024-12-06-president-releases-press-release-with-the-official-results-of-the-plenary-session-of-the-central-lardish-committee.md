@@ -4,7 +4,6 @@ title: 'President releases press release with the official results of the plenar
 date: '2024-12-06T19:15:21-06:00'
 author: admin
 layout: post
-guid: 'https://www.lardnews.eu.org/?p=138'
 permalink: /2024/12/06/president-releases-press-release-with-the-official-results-of-the-plenary-session-of-the-central-lardish-committee/
 categories:
     - 'Breaking News'
@@ -18,4 +17,4 @@ Two days ago, on December 04, he briefly shared the overall results with Lard Ne
 
 In a press release today, Lard Lapudding announced the detailed voting breakdown and officially delivered the results to the Lardish Government.
 
-Lard News was provided with the press release and you can find it here: [Official results CLC](https://www.lardnews.eu.org/wp-content/uploads/2024/12/Official-results-CLC.pdf).
+Lard News was provided with the press release and you can find it here: [Official results CLC](/wp-content/uploads/2024/12/Official-results-CLC.pdf).

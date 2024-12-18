@@ -4,7 +4,7 @@ title: 'Lard Lapudding name situation'
 date: '2023-07-29T05:49:41-06:00'
 author: admin
 layout: post
-guid: 'https://www.lardnews.eu.org/?p=63'
+
 permalink: /2023/07/29/lard-lapudding-name-situation/
 image: /wp-content/uploads/2023/07/template.png
 categories:

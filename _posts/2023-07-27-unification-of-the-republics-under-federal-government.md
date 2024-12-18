@@ -4,7 +4,6 @@ title: 'Unification of the Republics under Federal Government'
 date: '2023-07-27T02:50:18-06:00'
 author: admin
 layout: post
-guid: 'https://www.lardnews.eu.org/?p=57'
 permalink: /2023/07/27/unification-of-the-republics-under-federal-government/
 image: /wp-content/uploads/2023/07/Flag.png
 categories:

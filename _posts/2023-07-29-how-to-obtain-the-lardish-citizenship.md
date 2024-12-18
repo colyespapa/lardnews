@@ -4,7 +4,6 @@ title: 'How to obtain the Lardish Citizenship'
 date: '2023-07-29T05:57:30-06:00'
 author: admin
 layout: post
-guid: 'https://www.lardnews.eu.org/?p=62'
 permalink: /2023/07/29/how-to-obtain-the-lardish-citizenship/
 image: /wp-content/uploads/2023/07/Flag.png
 categories:

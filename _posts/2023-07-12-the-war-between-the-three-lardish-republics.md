@@ -4,7 +4,6 @@ title: 'The war between the three Lardish republics'
 date: '2023-07-12T03:12:12-06:00'
 author: admin
 layout: post
-guid: 'https://www.lardnews.eu.org/?p=28'
 permalink: /2023/07/12/the-war-between-the-three-lardish-republics/
 image: /wp-content/uploads/2023/07/craiyon_233614_intense_tank_warfare_amidst_a_devastated_urban_landscape.png
 categories:
@@ -47,7 +46,7 @@ Mr. Lard Lapudding 2nd has just ordered a full mobilization of Sovereign troops.
 
 Royal forces were pushed back on the Central Lardish District and the Molty state by the Sovereign Special Forces.
 
-> <cite>NOTE: AS THE FRONTLINES OF THE WAR REMAIN UNCHANGED, NOW ONLY EVERY WEEK THE LARD NEWS TEAM WILL UPDATE THIS ARTICLE</cite>
+<cite>NOTE: AS THE FRONTLINES OF THE WAR REMAIN UNCHANGED, NOW ONLY EVERY WEEK THE LARD NEWS TEAM WILL UPDATE THIS ARTICLE</cite>
 
 ### March 14th, 2023
 
@@ -57,7 +56,9 @@ After a new front on the E. Tutitacol was opened, Federal troops found very litt
 
 Royal forces, after intense fighting in Rouon, have closed the Sovereign East Corridor, with the purpose of encircling Royal troops. This is a major victory for the Royals, Royals troops have arrived in the Northern part of the Reaur to liberate it. The CLD is heavily damaged after an intense shelling by Royal forces. Royal forces have taken more than half of CLD territory.
 
- <figure class="wp-block-image size-large is-resized">![](https://www.lardnews.eu.org/wp-content/uploads/2023/07/March-19th-2023-1024x957.png)</figure>### March 20th, 2023
+ ![](/wp-content/uploads/2023/07/March-19th-2023-1024x957.png)
+ 
+ ### March 20th, 2023
 
 A verbal ceasefire was agreed by the leaders of each republic until a peace treaty was achieved.
 
@@ -65,4 +66,4 @@ A verbal ceasefire was agreed by the leaders of each republic until a peace trea
 
 A peace treaty was signed by three parties.
 
- <figure class="wp-block-image size-large is-resized">![](https://www.lardnews.eu.org/wp-content/uploads/2023/07/ThreeLardishPT-793x1024.png)</figure>
+ ![](/wp-content/uploads/2023/07/ThreeLardishPT-793x1024.png)

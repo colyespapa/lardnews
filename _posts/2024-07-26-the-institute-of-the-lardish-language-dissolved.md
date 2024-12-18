@@ -4,7 +4,6 @@ title: 'The Institute of the Lardish Language dissolved'
 date: '2024-07-26T15:07:44-06:00'
 author: admin
 layout: post
-guid: 'https://www.lardnews.eu.org/?p=99'
 permalink: /2024/07/26/the-institute-of-the-lardish-language-dissolved/
 categories:
     - 'Breaking News'

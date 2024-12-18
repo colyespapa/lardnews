@@ -4,7 +4,6 @@ title: 'Lardish National Party wants to change the Constitution'
 date: '2024-04-15T23:52:30-06:00'
 author: admin
 layout: post
-guid: 'https://www.lardnews.eu.org/?p=83'
 permalink: /2024/04/15/lardish-national-party-wants-to-change-the-constitution/
 categories:
     - 'National News'

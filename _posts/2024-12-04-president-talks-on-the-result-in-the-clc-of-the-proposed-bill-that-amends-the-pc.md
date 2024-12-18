@@ -4,7 +4,6 @@ title: 'President talks on the result in the CLC of the proposed bill that amend
 date: '2024-12-04T15:28:59-06:00'
 author: admin
 layout: post
-guid: 'https://www.lardnews.eu.org/?p=136'
 permalink: /2024/12/04/president-talks-on-the-result-in-the-clc-of-the-proposed-bill-that-amends-the-pc/
 categories:
     - 'National News'

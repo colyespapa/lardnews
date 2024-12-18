@@ -4,7 +4,6 @@ title: '[BREAKING NEWS] Lardish Republic dissolved by the President'
 date: '2024-12-16T14:19:05-06:00'
 author: admin
 layout: post
-guid: 'https://www.lardnews.eu.org/?p=141'
 permalink: /2024/12/16/breaking-news-lardish-republic-dissolved-by-the-president/
 categories:
     - 'Breaking News'

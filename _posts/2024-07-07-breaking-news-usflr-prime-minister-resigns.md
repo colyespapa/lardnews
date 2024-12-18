@@ -4,7 +4,6 @@ title: '[BREAKING NEWS] USFLR Prime Minister resigns'
 date: '2024-07-07T05:00:46-06:00'
 author: admin
 layout: post
-guid: 'https://www.lardnews.eu.org/?p=87'
 permalink: /2024/07/07/breaking-news-usflr-prime-minister-resigns/
 image: /wp-content/uploads/2024/07/Enhanced-CD-Logo.png
 categories:
